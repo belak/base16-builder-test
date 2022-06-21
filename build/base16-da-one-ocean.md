@@ -1,0 +1,22 @@
+# base16-da-one-ocean
+
+By: NNB (https://github.com/NNBnh)
+
+## Colors
+
+* `#171726`
+* `#22273d`
+* `#525866`
+* `#878d96`
+* `#c8c8c8`
+* `#ffffff`
+* `#ffffff`
+* `#ffffff`
+* `#fa7883`
+* `#ffc387`
+* `#ff9470`
+* `#98c379`
+* `#8af5ff`
+* `#6bb8ff`
+* `#e799ff`
+* `#b3684f`

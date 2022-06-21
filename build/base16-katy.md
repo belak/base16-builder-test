@@ -1,0 +1,22 @@
+# base16-katy
+
+By: George Essig (https://github.com/gessig)
+
+## Colors
+
+* `#292d3e`
+* `#444267`
+* `#5c598b`
+* `#676e95`
+* `#8796b0`
+* `#959dcb`
+* `#959dcb`
+* `#ffffff`
+* `#6e98e1`
+* `#f78c6c`
+* `#e0a557`
+* `#78c06e`
+* `#83b7e5`
+* `#82aaff`
+* `#c792ea`
+* `#ff5370`

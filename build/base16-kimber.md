@@ -1,0 +1,22 @@
+# base16-kimber
+
+By: Mishka Nguyen (https://github.com/akhsiM)
+
+## Colors
+
+* `#222222`
+* `#313131`
+* `#555d55`
+* `#644646`
+* `#5a5a5a`
+* `#dedee7`
+* `#c3c3b4`
+* `#ffffe6`
+* `#c88c8c`
+* `#476c88`
+* `#d8b56d`
+* `#99c899`
+* `#78b4b4`
+* `#537c9c`
+* `#86cacd`
+* `#704f4f`

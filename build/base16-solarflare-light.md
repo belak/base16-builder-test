@@ -1,0 +1,22 @@
+# base16-solarflare-light
+
+By: Chuck Harmston (https://chuck.harmston.ch)
+
+## Colors
+
+* `#f5f7fa`
+* `#e8e9ed`
+* `#a6afb8`
+* `#85939e`
+* `#667581`
+* `#586875`
+* `#222e38`
+* `#18262f`
+* `#ef5253`
+* `#e66b2b`
+* `#e4b51c`
+* `#7cc844`
+* `#52cbb0`
+* `#33b5e1`
+* `#a363d5`
+* `#d73c9a`

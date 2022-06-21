@@ -1,0 +1,22 @@
+# base16-horizon-terminal-dark
+
+By: Michaël Ball (http://github.com/michael-ball/)
+
+## Colors
+
+* `#1c1e26`
+* `#232530`
+* `#2e303e`
+* `#6f6f70`
+* `#9da0a2`
+* `#cbced0`
+* `#dcdfe4`
+* `#e3e6ee`
+* `#e95678`
+* `#fab795`
+* `#fac29a`
+* `#29d398`
+* `#59e1e3`
+* `#26bbd9`
+* `#ee64ac`
+* `#f09383`

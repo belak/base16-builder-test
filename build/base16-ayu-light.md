@@ -1,0 +1,22 @@
+# base16-ayu-light
+
+By: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+
+## Colors
+
+* `#fafafa`
+* `#f3f4f5`
+* `#f8f9fa`
+* `#abb0b6`
+* `#828c99`
+* `#5c6773`
+* `#242936`
+* `#1a1f29`
+* `#f07178`
+* `#fa8d3e`
+* `#f2ae49`
+* `#86b300`
+* `#4cbf99`
+* `#36a3d9`
+* `#a37acc`
+* `#e6ba7e`

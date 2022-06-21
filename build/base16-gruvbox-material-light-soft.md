@@ -1,0 +1,22 @@
+# base16-gruvbox-material-light-soft
+
+By: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+
+## Colors
+
+* `#f2e5bc`
+* `#ebdbb2`
+* `#c9b99a`
+* `#a89984`
+* `#665c54`
+* `#654735`
+* `#3c3836`
+* `#282828`
+* `#c14a4a`
+* `#c35e0a`
+* `#b47109`
+* `#6c782e`
+* `#4c7a5d`
+* `#45707a`
+* `#945e80`
+* `#e78a4e`

@@ -1,0 +1,22 @@
+# base16-horizon-dark
+
+By: Michaël Ball (http://github.com/michael-ball/)
+
+## Colors
+
+* `#1c1e26`
+* `#232530`
+* `#2e303e`
+* `#6f6f70`
+* `#9da0a2`
+* `#cbced0`
+* `#dcdfe4`
+* `#e3e6ee`
+* `#e93c58`
+* `#e58d7d`
+* `#efb993`
+* `#efaf8e`
+* `#24a8b4`
+* `#df5273`
+* `#b072d1`
+* `#e4a382`

@@ -1,0 +1,22 @@
+# base16-windows-95
+
+By: Fergus Collins (https://github.com/C-Fergus)
+
+## Colors
+
+* `#000000`
+* `#1c1c1c`
+* `#383838`
+* `#545454`
+* `#7e7e7e`
+* `#a8a8a8`
+* `#d2d2d2`
+* `#fcfcfc`
+* `#fc5454`
+* `#a85400`
+* `#fcfc54`
+* `#54fc54`
+* `#54fcfc`
+* `#5454fc`
+* `#fc54fc`
+* `#00a800`

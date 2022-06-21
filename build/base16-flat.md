@@ -1,0 +1,22 @@
+# base16-flat
+
+By: Chris Kempson (http://chriskempson.com)
+
+## Colors
+
+* `#2c3e50`
+* `#34495e`
+* `#7f8c8d`
+* `#95a5a6`
+* `#bdc3c7`
+* `#e0e0e0`
+* `#f5f5f5`
+* `#ecf0f1`
+* `#e74c3c`
+* `#e67e22`
+* `#f1c40f`
+* `#2ecc71`
+* `#1abc9c`
+* `#3498db`
+* `#9b59b6`
+* `#be643c`

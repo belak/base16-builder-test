@@ -1,0 +1,22 @@
+# base16-brushtrees
+
+By: Abraham White &lt;abelincoln.white@gmail.com&gt;
+
+## Colors
+
+* `#e3efef`
+* `#c9dbdc`
+* `#b0c5c8`
+* `#98afb5`
+* `#8299a1`
+* `#6d828e`
+* `#5a6d7a`
+* `#485867`
+* `#b38686`
+* `#d8bba2`
+* `#aab386`
+* `#87b386`
+* `#86b3b3`
+* `#868cb3`
+* `#b386b2`
+* `#b39f9f`

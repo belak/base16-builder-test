@@ -1,0 +1,22 @@
+# base16-silk-light
+
+By: Gabriel Fontes (https://github.com/Misterio77)
+
+## Colors
+
+* `#e9f1ef`
+* `#ccd4d3`
+* `#90b7b6`
+* `#5c787b`
+* `#4b5b5f`
+* `#385156`
+* `#0e3c46`
+* `#d2faff`
+* `#cf432e`
+* `#d27f46`
+* `#cfad25`
+* `#6ca38c`
+* `#329ca2`
+* `#39aac9`
+* `#6e6582`
+* `#865369`

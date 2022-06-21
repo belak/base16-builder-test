@@ -1,0 +1,22 @@
+# base16-rose-pine-dawn
+
+By: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+
+## Colors
+
+* `#faf4ed`
+* `#fffaf3`
+* `#f2e9de`
+* `#9893a5`
+* `#6e6a86`
+* `#575279`
+* `#555169`
+* `#26233a`
+* `#1f1d2e`
+* `#b4637a`
+* `#ea9d34`
+* `#d7827e`
+* `#286983`
+* `#56949f`
+* `#907aa9`
+* `#c5c3ce`

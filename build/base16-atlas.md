@@ -1,0 +1,22 @@
+# base16-atlas
+
+By: Alex Lende (https://ajlende.com)
+
+## Colors
+
+* `#002635`
+* `#00384d`
+* `#517f8d`
+* `#6c8b91`
+* `#869696`
+* `#a1a19a`
+* `#e6e6dc`
+* `#fafaf8`
+* `#ff5a67`
+* `#f08e48`
+* `#ffcc1b`
+* `#7fc06e`
+* `#14747e`
+* `#5dd7b9`
+* `#9a70a4`
+* `#c43060`
