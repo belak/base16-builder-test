@@ -20,3 +20,8 @@ By: Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https
 * `#57c7ff`
 * `#ff6ac1`
 * `#b2643c`
+
+## Random Stuff
+
+Bump
+Bump

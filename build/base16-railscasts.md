@@ -20,3 +20,8 @@ By: Ryan Bates (http://railscasts.com)
 * `#6d9cbe`
 * `#b6b3eb`
 * `#bc9458`
+
+## Random Stuff
+
+Bump
+Bump

@@ -20,3 +20,8 @@ By: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
 * `#4f97d7`
 * `#a31db1`
 * `#b03060`
+
+## Random Stuff
+
+Bump
+Bump

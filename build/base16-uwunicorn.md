@@ -20,3 +20,8 @@ By: Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://g
 * `#6a9eb5`
 * `#78a38f`
 * `#a3a079`
+
+## Random Stuff
+
+Bump
+Bump
