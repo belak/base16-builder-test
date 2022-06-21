@@ -16,7 +16,7 @@ jobs:
           repository: base16-project/base16-schemes
           path: schemes
       - name: Update schemes
-        uses: base16-project/base16-builder-go@v0.2.1
+        uses: base16-project/base16-builder-go@v0.2.2
       - name: Commit the changes, if any
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
